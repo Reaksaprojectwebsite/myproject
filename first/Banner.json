@@ -1,6 +1,7 @@
 {
   "Banner": [
-    "https://github.com/Reaksaprojectwebsite/myproject/blob/main/first/image/banner1.png",
-    "https://github.com/Reaksaprojectwebsite/myproject/blob/main/first/image/banner2.png"
+    "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/banner1.png",
+    "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/banner2.png"
   ]
 }
+
