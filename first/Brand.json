@@ -1,5 +1,5 @@
 {
-    "Category": [
+  "Category": [
     {
       "id": 0,
       "picUrl": "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/cat1.png",
@@ -7,29 +7,28 @@
     },
     {
       "id": 1,
-      "picUrl": "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/cat1.png",
+      "picUrl": "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/cat2.png",
       "title": "Nike"
     },
-        {
+    {
       "id": 2,
-      "picUrl": "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/cat1.png",
-      "title": "Adidas"
+      "picUrl": "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/cat3.png",
+      "title": "Puma"
     },
     {
       "id": 3,
-      "picUrl": "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/cat1.png",
-      "title": "Nike"
+      "picUrl": "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/cat4.png",
+      "title": "Skechers"
     },
-        {
+    {
       "id": 4,
-      "picUrl": "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/cat1.png",
-      "title": "Adidas"
+      "picUrl": "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/cat5.png",
+      "title": "Reebok"
     },
     {
       "id": 5,
-      "picUrl": "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/cat1.png",
-      "title": "Nike"
-    },
-    
+      "picUrl": "https://raw.githubusercontent.com/Reaksaprojectwebsite/myproject/main/first/image/cat6.png",
+      "title": "Lacoste"
+    }
   ]
-  }
+}
